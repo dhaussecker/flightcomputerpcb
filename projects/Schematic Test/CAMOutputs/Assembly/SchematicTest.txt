@@ -1,0 +1,10 @@
+Partlist exported from C:/Users/dhaus/Documents/EAGLE/projects/Schematic Test/SchematicTest.sch at 2022-04-17 12:15 PM
+
+Qty Value Device          Package Parts          Description                    MF                MPN    OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+1   10n   EL-BI25-10AXIAL EU25-10 C2             BIPOLAR ELECTROLYTIC CAPACITOR                                               0          C          
+4   1k    R-US_0204/2V    0204V   R1, R2, R3, R4 RESISTOR, American symbol                                                    0          R          
+1   1u    EL-BI25-10AXIAL EU25-10 C1             BIPOLAR ELECTROLYTIC CAPACITOR                                               0          C          
+1   9v    M02             02P     SL1            AMP QUICK CONNECTOR                                     unknown    unknown   33                    
+1   GREEN LED5MM          LED5MM  LED2           LED                                                                          93                    
+1   NE555 NE555           DIL-08  IC3            General purpose bipolar Timer  Arrow Electronics NE555N 1467742    89K1486   24                    
+1   RED   LED5MM          LED5MM  LED1           LED                                                                          93                    
